@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋, I'm [Your Name]!
 
-<!--
-**ortbar/ortbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **web developer** in transition from over 10 years of experience in logistics. Recently, I completed my training in web development, and I'm passionate about building innovative solutions and continuing to grow in the IT world.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Personal web development projects using **JavaScript (Angular)**, **PHP (Laravel)**, **Python (Django)**, and **Java**.
+- Enhancing my **front-end** and **back-end** skills through continuous learning and practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- Advanced **JavaScript** frameworks like **Angular** and **React**.
+- Deepening my knowledge in **Python** and **Django** for back-end development.
+- Exploring **API development** and **RESTful services**.
+
+### 👯 Looking to collaborate on
+- Open-source projects, particularly those focused on **web development**.
+- Initiatives that involve **learning by doing** and community-driven growth.
+
+### 💬 Ask me about
+- My experience transitioning from **logistics** to **development**.
+- Tips for managing a **career change** and learning new tech skills.
+
+### 📫 How to reach me
+- Feel free to connect with me on [LinkedIn](https://linkedin.com/in/aortiz80) 
+
+### ⚡ Fun fact
+- In my free time, I love working on **personal coding projects** and staying up-to-date with the latest in tech. I'm also a huge fan of **problem-solving games**!
