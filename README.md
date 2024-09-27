@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **web developer** in transition from over 10
 - Enhancing my **front-end** and **back-end** skills through continuous learning and practice.
 
 ### 🌱 Currently learning
-- Advanced **JavaScript** frameworks like **Angular** and **React**.
+- Advanced **JavaScript** frameworks like **Angular**.
 - Deepening my knowledge in **Python** and **Django** for back-end development.
 - Exploring **API development** and **RESTful services**.
 
