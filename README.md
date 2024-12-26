@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a **web developer** in transition from over 10 years of experience in logistics. Recently, I completed my training in web development, and I'm passionate about building innovative solutions and continuing to grow in the IT world.
 
 ### 🔭 What I'm working on
-- Personal web development projects using **JavaScript (Angular)**, **PHP (Laravel)**, **Python (Django)**, and **Java**.
+- Personal web development projects using **Java (SpringBoot)**, **JavaScript (Angular)**, **PHP (Laravel)**, **Python (Django)**, and **Java**.
 - Enhancing my **front-end** and **back-end** skills through continuous learning and practice.
 
 ### 🌱 Currently learning
